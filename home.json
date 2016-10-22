@@ -38,8 +38,8 @@
             "title": {
               "type": "image",
               "style": {
-                "width": "27",
-                "height": "27"
+                "width": "35",
+                "height": "35"
               },
               "url": "https://raw.githubusercontent.com/Jasonette/Twitter/master/images/logo.png"
             }
