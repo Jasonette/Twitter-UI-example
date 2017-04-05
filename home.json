@@ -138,7 +138,6 @@
                     "type": "image",
                     "url": "{{image}}",
                     "style": {
-                      "width": "100%",
                       "corner_radius": "5"
                     }
                   }, {
